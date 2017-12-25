@@ -1,0 +1,16 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "ping implemention",
+  "main": "index.js",
+  "dependencies": {
+    "node-gyp": "^3.6.2",
+    "raw-socket": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valery Magadeeva",
+  "license": "ISC"
+}
